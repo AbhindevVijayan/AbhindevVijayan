@@ -43,9 +43,10 @@ Education:
   - Master of Computer Applications (MCA)
 
 Focus:
-  - Full Stack Development
+  - Full Stack
   - Artificial Intelligence
   - Backend Engineering
+  
 
 Currently Learning:
   - AI Agents
@@ -56,6 +57,10 @@ Interests:
   - Open Source
   - Machine Learning
   - Modern Web Technologies
+  - Django
+  - Python
+  - Node
+  - React
 ```
 
 ---
