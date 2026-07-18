@@ -91,3 +91,54 @@ Interests:
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=AbhindevVijayan&theme=github-dark-blue&hide_border=true"/>
 </p>
+
+---
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AbhindevVijayan&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhindevVijayan&theme=github-compact&hide_border=true" width="95%"/>
+</p>
+
+---
+
+<h2 align="center">👀 Profile Views</h2>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AbhindevVijayan&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+<a href="mailto:abhindevvijayan18@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhindev-vijayan-516454245/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://abhindevvijayan-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
+
+<p align="center">
+<i>Building intelligent software, one commit at a time.</i>
+</p>
