@@ -61,3 +61,33 @@ Interests:
 ---
 
 > *"Building software that is clean, scalable, and driven by intelligent solutions."*
+
+
+<h2 align="center">🚀 Tech Arsenal</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,express,django,fastapi,flask,mysql,postgres,tensorflow,pytorch,docker,git,github,vscode,postman,html,css,bootstrap&perline=7" />
+</p>
+
+---
+
+<h2 align="center">🌱 Currently Exploring</h2>
+
+<p align="center">
+
+🤖 AI Agents • 📚 Retrieval-Augmented Generation (RAG) • ⚙️ System Design • ☁️ Cloud Technologies
+
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AbhindevVijayan&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhindevVijayan&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=AbhindevVijayan&theme=github-dark-blue&hide_border=true"/>
+</p>
