@@ -4,12 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Abhindev Vijayan</h1>
 
-<h3 align="center">
-Full Stack Developer • Backend Developer • AI & Machine Learning Enthusiast
-</h3>
-
 <p align="center">
-  Building intelligent, scalable and practical software solutions.
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Backend+Developer;Python+Developer;Django+Developer;AI+%26+Machine+Learning+Enthusiast;AI+Agent+Developer;RAG+%26+LLM+Enthusiast;API+%26+Backend+Engineer;Building+Intelligent+Web+Applications;Building+Scalable+Software;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -48,6 +44,7 @@ Focus:
 Currently Learning:
   - AI Agents
   - Retrieval-Augmented Generation (RAG)
+  - Large Language Models (LLMs)
   - System Design
   - Cloud Technologies
 
@@ -59,11 +56,14 @@ Interests:
   - Node.js
   - Machine Learning
   - Open Source
+  - Modern Web Technologies
 ```
 
 ---
 
-> **"Building software that is clean, scalable, and driven by intelligent solutions."**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=800&lines=Turning+ideas+into+working+software;Learning+by+building;Exploring+AI+and+modern+backend+systems;Writing+clean+and+scalable+code;Building+one+project+at+a+time" />
+</p>
 
 ---
 
@@ -78,10 +78,7 @@ Interests:
 ## 🌱 Currently Exploring
 
 <p align="center">
-  🤖 AI Agents &nbsp; • &nbsp;
-  📚 RAG &nbsp; • &nbsp;
-  ⚙️ System Design &nbsp; • &nbsp;
-  ☁️ Cloud Technologies
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=🤖+AI+Agents;📚+Retrieval-Augmented+Generation;🧠+Large+Language+Models;⚙️+System+Design;☁️+Cloud+Technologies;🔧+Scalable+Backend+Systems" />
 </p>
 
 ---
@@ -132,9 +129,9 @@ Interests:
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile ⭐
+  ⭐ Thanks for visiting my profile ⭐
 </h3>
 
 <p align="center">
-<i>Building intelligent software, one commit at a time.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=Building+intelligent+software%2C+one+commit+at+a+time.;Keep+Building.+Keep+Learning.+Keep+Growing." />
 </p>
