@@ -2,46 +2,39 @@
   <img src="./banner2.png" width="100%" alt="Abhindev Vijayan" />
 </p>
 
-<br>
-
-<h1 align="center">Hi 👋, I'm Abhindev Vijayan</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Developer;Python+Developer;Django+Developer;AI+%26+Machine+Learning+Enthusiast;AI+Agent+Developer;RAG+%26+LLM+Enthusiast;API+%26+Backend+Engineer;Building+Intelligent+Web+Applications;Building+Scalable+Software;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=950&lines=ABHINDEV+VIJAYAN;FULL+STACK+DEVELOPER;BACKEND+ENGINEER;PYTHON+%7C+DJANGO+DEVELOPER;AI+%26+MACHINE+LEARNING;AI+AGENT+BUILDER;RAG+%26+LLM+ENTHUSIAST;SYSTEM+DESIGN+EXPLORER" />
 </p>
 
 <p align="center">
-  <i>Turning ideas into intelligent, scalable and practical software.</i>
+  <img src="https://komarev.com/ghpvc/?username=AbhindevVijayan&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 </p>
-
-<br>
 
 <p align="center">
   <a href="https://github.com/AbhindevVijayan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
   </a>
   <a href="https://www.linkedin.com/in/abhindev-vijayan-516454245/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
   </a>
   <a href="https://abhindevvijayan-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
   </a>
   <a href="mailto:abhindevvijayan18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" />
   </a>
 </p>
 
----
-
-<h2 align="center">⚡ About Me</h2>
+<br>
 
 <p align="center">
-  I'm a developer focused on building modern web applications,
-  scalable backend systems and intelligent software.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D1117&section=header&reversal=false" width="100%" />
 </p>
 
+<h2 align="center">⌁ INITIALIZING DEVELOPER PROFILE...</h2>
+
 <p align="center">
-  I enjoy taking an idea from concept → architecture → development → deployment.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=500&color=8B949E&center=true&vCenter=true&width=800&lines=%3E+Loading+developer.profile...;✓+Python+runtime+initialized;✓+Backend+systems+online;✓+AI+modules+loading;✓+RAG+pipeline+ready;✓+System+design+mode+enabled;✓+Ready+to+build." />
 </p>
 
 <br>
@@ -50,113 +43,178 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Education
+<h3>👤 IDENTITY</h3>
 
-* 🎓 Master of Computer Applications (MCA)
-* 💻 Bachelor of Science in Computer Science (BSc)
+```text
+NAME       → Abhindev Vijayan
+LOCATION   → Kerala, India
+
+ROLE       → Full Stack Developer
+             Backend Developer
+             AI/ML Enthusiast
+
+PRIMARY    → Python
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎯 Focus
+<h3>🎓 EDUCATION</h3>
 
-* Full Stack Development
-* Backend Engineering
-* Artificial Intelligence
-* Machine Learning
-* API Development
-* System Design
+```text
+MCA
+Master of Computer Applications
+
+BSc Computer Science
+Bachelor of Science
+```
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-<h2 align="center">🧠 Developer Profile</h2>
-
-```yaml
-name: Abhindev Vijayan
-location: Kerala, India
-
-role:
-  - Full Stack Developer
-  - Backend Developer
-  - AI & ML Enthusiast
-
-primary_language:
-  - Python
-
-backend:
-  - Django
-  - FastAPI
-  - Flask
-  - Node.js
-  - Express.js
-
-frontend:
-  - React
-  - JavaScript
-  - TypeScript
-  - HTML
-  - CSS
-  - Bootstrap
-
-databases:
-  - MySQL
-  - PostgreSQL
-
-development:
-  - REST APIs
-  - Authentication
-  - Database Design
-  - System Design
-  - AI Integration
-  - Scalable Applications
-
-currently_exploring:
-  - AI Agents
-  - RAG
-  - LLM Applications
-  - Cloud Technologies
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=I+build+software+that+solves+real+problems.;I+turn+ideas+into+working+systems.;I+love+backend+architecture+and+intelligent+applications.;I+learn+by+building.;I+build%2C+break%2C+debug%2C+learn+and+repeat." />
+</p>
 
 ---
 
-<h2 align="center">🚀 Tech Arsenal</h2>
+<h2 align="center">⚡ TECH UNIVERSE</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,express,django,fastapi,flask,mysql,postgres,docker,git,github,vscode,postman,html,css,bootstrap&perline=7" />
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=500&color=58A6FF&center=true&vCenter=true&width=900&lines=PYTHON+%2B+DJANGO+%2B+FASTAPI;REACT+%2B+JAVASCRIPT+%2B+TYPESCRIPT;MYSQL+%2B+POSTGRESQL;DOCKER+%2B+GIT+%2B+REST+APIs;AI+%2B+LLMs+%2B+RAG+%2B+AGENTS" />
+</p>
+
 ---
 
-<h2 align="center">🔥 What I Build</h2>
+<h2 align="center">🧩 ENGINEERING DOMAINS</h2>
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
 
-### 🌐 Web Applications
-
-Modern full-stack applications with clean interfaces, APIs and scalable backend architecture.
-
+<td align="center" width="25%">
+<br>
+<img src="https://img.icons8.com/fluency/64/source-code.png" />
+<br><br>
+<b>FULL STACK</b>
+<br>
+Web Applications<br>
+REST APIs<br>
+Modern UI
+<br><br>
 </td>
 
-<td align="center" width="33%">
-
-### ⚙️ Backend Systems
-
-REST APIs, authentication, databases, services and backend systems designed for reliability.
-
+<td align="center" width="25%">
+<br>
+<img src="https://img.icons8.com/fluency/64/server.png" />
+<br><br>
+<b>BACKEND</b>
+<br>
+Django<br>
+FastAPI<br>
+Database Systems
+<br><br>
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
+<br>
+<img src="https://img.icons8.com/fluency/64/artificial-intelligence.png" />
+<br><br>
+<b>AI / ML</b>
+<br>
+LLMs<br>
+RAG<br>
+AI Agents
+<br><br>
+</td>
 
-### 🤖 AI Applications
+<td align="center" width="25%">
+<br>
+<img src="https://img.icons8.com/fluency/64/system-task.png" />
+<br><br>
+<b>ENGINEERING</b>
+<br>
+Architecture<br>
+System Design<br>
+Scalability
+<br><br>
+</td>
 
-Intelligent applications using ML, LLMs, RAG, AI agents and automation.
+</tr>
+</table>
+
+---
+
+<h2 align="center">🌌 CURRENTLY EXPLORING</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=900&lines=%5B01%5D+AI+AGENTS;→+Tool+Calling+%7C+Automation+%7C+Reasoning;%5B02%5D+RAG;→+Embeddings+%7C+Retrieval+%7C+Context;%5B03%5D+LLMs;→+Intelligent+Applications+%7C+Prompt+Engineering;%5B04%5D+SYSTEM+DESIGN;→+Scalability+%7C+Reliability+%7C+Architecture;%5B05%5D+CLOUD;→+Deployment+%7C+Infrastructure+%7C+Production" />
+</p>
+
+---
+
+<h2 align="center">🚀 BUILDING MINDSET</h2>
+
+<p align="center">
+
+```text
+IDEA
+ ↓
+ARCHITECT
+ ↓
+BUILD
+ ↓
+TEST
+ ↓
+DEBUG
+ ↓
+OPTIMIZE
+ ↓
+DEPLOY
+ ↓
+LEARN
+ ↺
+```
+
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=800&lines=Clean+code.;Useful+software.;Reliable+systems.;Continuous+learning.;Real-world+problem+solving." />
+</p>
+
+---
+
+<h2 align="center">🛰️ DEVELOPER STATUS</h2>
+
+<table align="center">
+<tr>
+<td>
+
+```text
+┌─────────────────────────────────────┐
+│         SYSTEM STATUS               │
+├─────────────────────────────────────┤
+│                                     │
+│  Backend       [██████████] ACTIVE  │
+│  Python        [██████████] ACTIVE  │
+│  AI / ML       [████████░░] LEARNING│
+│  RAG           [████████░░] BUILDING│
+│  Agents        [███████░░░] EXPLORING│
+│  System Design [██████░░░░] LEARNING│
+│                                     │
+│  STATUS: BUILDING                   │
+│                                     │
+└─────────────────────────────────────┘
+```
 
 </td>
 </tr>
@@ -164,76 +222,12 @@ Intelligent applications using ML, LLMs, RAG, AI agents and automation.
 
 ---
 
-<h2 align="center">🛠️ Engineering Interests</h2>
+<h2 align="center">📊 GITHUB TELEMETRY</h2>
 
 <p align="center">
-
-🔹 Clean Architecture
-🔹 REST API Design
-🔹 Database Architecture
-🔹 System Design
-🔹 AI Integration
-🔹 Automation
-🔹 Scalable Applications
-🔹 Developer Tools
-
-</p>
-
----
-
-<h2 align="center">🌱 Currently Exploring</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=🤖+AI+Agents;📚+Retrieval-Augmented+Generation+(RAG);🧠+Large+Language+Models;⚙️+System+Design;☁️+Cloud+Technologies;🔧+Scalable+Backend+Systems;🚀+Production-Ready+Applications" />
-</p>
-
----
-
-<h2 align="center">💡 Development Philosophy</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=17&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=850&lines=Build+with+purpose.;Learn+by+building.;Keep+the+code+clean.;Design+for+scale.;Solve+real+problems.;Keep+improving." />
-</p>
-
----
-
-<h2 align="center">📌 Current Goals</h2>
-
-<p align="center">
-
-🚀 Build production-ready applications <br>
-🤖 Explore practical AI engineering <br>
-⚙️ Improve system design skills <br>
-☁️ Learn modern cloud infrastructure <br>
-🌍 Contribute to open source <br>
-📚 Keep learning and experimenting
-
-</p>
-
----
-
-<h2 align="center">📊 GitHub</h2>
-
-<p align="center">
-  <a href="https://github.com/AbhindevVijayan">
-    <img src="https://img.shields.io/github/followers/AbhindevVijayan?style=for-the-badge&logo=github&label=Followers" />
-  </a>
-  <a href="https://github.com/AbhindevVijayan?tab=repositories">
-    <img src="https://img.shields.io/github/stars/AbhindevVijayan?style=for-the-badge&logo=github&label=Stars" />
-  </a>
-  <a href="https://github.com/AbhindevVijayan?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhindevVijayan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhindevVijayan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhindevVijayan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="42%" />
 </p>
-
----
-
-<h2 align="center">🔥 Coding Activity</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AbhindevVijayan&theme=github-dark-blue&hide_border=true" width="70%" />
@@ -241,34 +235,46 @@ Intelligent applications using ML, LLMs, RAG, AI agents and automation.
 
 ---
 
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">📈 CONTRIBUTION FLOW</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhindevVijayan&theme=github-compact&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhindevVijayan&theme=github-compact&hide_border=true&area=true&custom_title=ABHINDEV%20VIJAYAN%20-%20CONTRIBUTION%20FLOW" width="95%" />
 </p>
 
 ---
 
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 align="center">💭 BEYOND CODE</h2>
 
 <p align="center">
-  <a href="mailto:abhindevvijayan18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=850&lines=Curiosity+drives+my+learning.;Technology+keeps+me+building.;Every+bug+is+a+lesson.;Every+project+is+an+experiment.;There+is+always+something+new+to+learn." />
+</p>
+
+---
+
+<h2 align="center">🔗 CONNECT WITH ME</h2>
+
+<p align="center">
+  <a href="https://github.com/AbhindevVijayan">
+    <img src="https://img.shields.io/badge/EXPLORE%20CODE-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
   </a>
   <a href="https://www.linkedin.com/in/abhindev-vijayan-516454245/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
   </a>
   <a href="https://abhindevvijayan-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
   </a>
 </p>
 
----
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!;Building+intelligent+software%2C+one+commit+at+a+time.;Keep+Building+%E2%80%A2+Keep+Learning+%E2%80%A2+Keep+Growing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=THANKS+FOR+VISITING!;KEEP+BUILDING.;KEEP+LEARNING.;KEEP+EXPERIMENTING.;SEE+YOU+IN+THE+NEXT+COMMIT+%F0%9F%91%8B" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhindevVijayan&style=for-the-badge&color=58A6FF" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D1117&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <i>Building intelligent software, one commit at a time.</i>
 </p>
