@@ -156,11 +156,64 @@ Scalability
 
 <h2 align="center">🌌 CURRENTLY EXPLORING</h2>
 
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+<br>
+<img src="https://img.icons8.com/fluency/64/artificial-intelligence.png" />
+<br><br>
+<b>AI AGENTS</b>
+<br>
+Tool Calling<br>
+Automation<br>
+AI Reasoning
+<br><br>
+</td>
+
+<td align="center" width="25%">
+<br>
+<img src="https://img.icons8.com/fluency/64/search--v1.png" />
+<br><br>
+<b>RAG</b>
+<br>
+Embeddings<br>
+Information Retrieval<br>
+Context Engineering
+<br><br>
+</td>
+
+<td align="center" width="25%">
+<br>
+<img src="https://img.icons8.com/fluency/64/brain.png" />
+<br><br>
+<b>LLMs</b>
+<br>
+LLM Applications<br>
+Prompt Engineering<br>
+AI Integration
+<br><br>
+</td>
+
+<td align="center" width="25%">
+<br>
+<img src="https://img.icons8.com/fluency/64/cloud.png" />
+<br><br>
+<b>SYSTEMS & CLOUD</b>
+<br>
+System Design<br>
+Scalability<br>
+Cloud Infrastructure
+<br><br>
+</td>
+
+</tr>
+</table>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=900&lines=%5B01%5D+AI+AGENTS;→+Tool+Calling+%7C+Automation+%7C+Reasoning;%5B02%5D+RAG;→+Embeddings+%7C+Retrieval+%7C+Context;%5B03%5D+LLMs;→+Intelligent+Applications+%7C+Prompt+Engineering;%5B04%5D+SYSTEM+DESIGN;→+Scalability+%7C+Reliability+%7C+Architecture;%5B05%5D+CLOUD;→+Deployment+%7C+Infrastructure+%7C+Production" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Exploring+AI+Agents;Building+RAG+Systems;Working+with+LLMs;Learning+System+Design;Exploring+Cloud+Technologies" />
 </p>
 
----
 <h2 align="center">🚀 BUILDING MINDSET</h2>
 
 <table align="center">
