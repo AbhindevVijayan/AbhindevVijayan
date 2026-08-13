@@ -25,128 +25,140 @@
   </a>
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D1117&section=header&reversal=false" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0D1117&section=header" width="100%" />
 </p>
 
-<h2 align="center">⌁ INITIALIZING DEVELOPER PROFILE...</h2>
+<h2 align="center">⌁ SYSTEM INITIALIZATION</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=500&color=8B949E&center=true&vCenter=true&width=800&lines=%3E+Loading+developer.profile...;✓+Python+runtime+initialized;✓+Backend+systems+online;✓+AI+modules+loading;✓+RAG+pipeline+ready;✓+System+design+mode+enabled;✓+Ready+to+build." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2100&pause=450&color=8B949E&center=true&vCenter=true&width=850&lines=%3E+Loading+developer.profile...;%3E+Initializing+Python+environment...;%3E+Loading+backend+modules...;%3E+Connecting+AI+modules...;%3E+Initializing+RAG+pipeline...;%3E+Loading+system+design+knowledge...;%3E+STATUS%3A+READY+TO+BUILD." />
 </p>
 
 <br>
 
 <table align="center">
 <tr>
+
 <td width="50%" valign="top">
 
-<h3>👤 IDENTITY</h3>
+<h3>◉ IDENTITY</h3>
 
-```text
-NAME       → Abhindev Vijayan
-LOCATION   → Kerala, India
+```text id="p4wqgj"
+NAME
+└── Abhindev Vijayan
 
-ROLE       → Full Stack Developer
-             Backend Developer
-             AI/ML Enthusiast
+LOCATION
+└── Kerala, India
 
-PRIMARY    → Python
+PRIMARY LANGUAGE
+└── Python
+
+ROLE
+├── Full Stack Developer
+├── Backend Developer
+└── AI/ML Enthusiast
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🎓 EDUCATION</h3>
+<h3>◈ EDUCATION</h3>
 
-```text
+```text id="r6q0qz"
 MCA
-Master of Computer Applications
+└── Master of Computer Applications
 
-BSc Computer Science
-Bachelor of Science
+BSc COMPUTER SCIENCE
+└── Bachelor of Science
+
+FOCUS
+├── Software Engineering
+├── Backend Systems
+└── Artificial Intelligence
 ```
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=I+build+software+that+solves+real+problems.;I+turn+ideas+into+working+systems.;I+love+backend+architecture+and+intelligent+applications.;I+learn+by+building.;I+build%2C+break%2C+debug%2C+learn+and+repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=I+build+software+that+solves+real+problems.;I+turn+ideas+into+working+systems.;I+love+backend+architecture+and+intelligent+applications.;I+learn+by+building.;Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Learn+%E2%86%92+Repeat." />
 </p>
 
 ---
 
-<h2 align="center">⚡ TECH UNIVERSE</h2>
+<h2 align="center">⚡ TECH STACK</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,express,django,fastapi,flask,mysql,postgres,docker,git,github,vscode,postman,html,css,bootstrap&perline=7" />
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=500&color=58A6FF&center=true&vCenter=true&width=900&lines=PYTHON+%2B+DJANGO+%2B+FASTAPI;REACT+%2B+JAVASCRIPT+%2B+TYPESCRIPT;MYSQL+%2B+POSTGRESQL;DOCKER+%2B+GIT+%2B+REST+APIs;AI+%2B+LLMs+%2B+RAG+%2B+AGENTS" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2400&pause=500&color=58A6FF&center=true&vCenter=true&width=900&lines=PYTHON+%2B+DJANGO+%2B+FASTAPI;REACT+%2B+JAVASCRIPT+%2B+TYPESCRIPT;MYSQL+%2B+POSTGRESQL;DOCKER+%2B+GIT+%2B+REST+APIs;AI+%2B+LLMs+%2B+RAG+%2B+AGENTS" />
 </p>
 
 ---
 
-<h2 align="center">🧩 ENGINEERING DOMAINS</h2>
+<h2 align="center">🧠 ENGINEERING DOMAINS</h2>
 
 <table align="center">
 <tr>
 
 <td align="center" width="25%">
-<br>
-<img src="https://img.icons8.com/fluency/64/source-code.png" />
-<br><br>
-<b>FULL STACK</b>
-<br>
-Web Applications<br>
-REST APIs<br>
-Modern UI
-<br><br>
+
+### 🌐
+
+**FULL STACK**
+
+React
+JavaScript
+TypeScript
+HTML / CSS
+
 </td>
 
 <td align="center" width="25%">
-<br>
-<img src="https://img.icons8.com/fluency/64/server.png" />
-<br><br>
-<b>BACKEND</b>
-<br>
-Django<br>
-FastAPI<br>
-Database Systems
-<br><br>
+
+### ⚙️
+
+**BACKEND**
+
+Python
+Django
+FastAPI
+REST APIs
+
 </td>
 
 <td align="center" width="25%">
-<br>
-<img src="https://img.icons8.com/fluency/64/artificial-intelligence.png" />
-<br><br>
-<b>AI / ML</b>
-<br>
-LLMs<br>
-RAG<br>
+
+### 🤖
+
+**AI / ML**
+
+Machine Learning
+LLMs
+RAG
 AI Agents
-<br><br>
+
 </td>
 
 <td align="center" width="25%">
-<br>
-<img src="https://img.icons8.com/fluency/64/system-task.png" />
-<br><br>
-<b>ENGINEERING</b>
-<br>
-Architecture<br>
-System Design<br>
-Scalability
-<br><br>
+
+### 🗄️
+
+**DATA / INFRA**
+
+MySQL
+PostgreSQL
+Docker
+Git
+
 </td>
 
 </tr>
@@ -157,68 +169,82 @@ Scalability
 <h2 align="center">🌌 CURRENTLY EXPLORING</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=900&lines=%5B01%5D+AI+AGENTS;→+Tool+Calling+%7C+Automation+%7C+Reasoning;%5B02%5D+RAG;→+Embeddings+%7C+Retrieval+%7C+Context;%5B03%5D+LLMs;→+Intelligent+Applications+%7C+Prompt+Engineering;%5B04%5D+SYSTEM+DESIGN;→+Scalability+%7C+Reliability+%7C+Architecture;%5B05%5D+CLOUD;→+Deployment+%7C+Infrastructure+%7C+Production" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2700&pause=600&color=58A6FF&center=true&vCenter=true&width=900&lines=%5B01%5D+AI+AGENTS;Tool+Calling+%7C+Automation+%7C+Reasoning;%5B02%5D+RAG;Embeddings+%7C+Retrieval+%7C+Context;%5B03%5D+LLMs;Intelligent+Applications+%7C+Prompt+Engineering;%5B04%5D+SYSTEM+DESIGN;Scalability+%7C+Reliability+%7C+Architecture;%5B05%5D+CLOUD;Deployment+%7C+Infrastructure+%7C+Production" />
 </p>
 
 ---
 
-<h2 align="center">🚀 BUILDING MINDSET</h2>
+<h2 align="center">🚀 BUILD PIPELINE</h2>
 
 <p align="center">
 
 ```text
-IDEA
- ↓
-ARCHITECT
- ↓
-BUILD
- ↓
-TEST
- ↓
-DEBUG
- ↓
-OPTIMIZE
- ↓
-DEPLOY
- ↓
-LEARN
- ↺
+┌──────────┐
+│   IDEA   │
+└────┬─────┘
+     ↓
+┌──────────┐
+│ ARCHITECT│
+└────┬─────┘
+     ↓
+┌──────────┐
+│   BUILD  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│   TEST   │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  DEBUG   │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  DEPLOY  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  LEARN   │
+└────┴─────┘
+     ↺
 ```
 
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=800&lines=Clean+code.;Useful+software.;Reliable+systems.;Continuous+learning.;Real-world+problem+solving." />
 </p>
 
 ---
 
 <h2 align="center">🛰️ DEVELOPER STATUS</h2>
 
-<table align="center">
-<tr>
-<td>
+<p align="center">
 
 ```text
-┌─────────────────────────────────────┐
-│         SYSTEM STATUS               │
-├─────────────────────────────────────┤
-│                                     │
-│  Backend       [██████████] ACTIVE  │
-│  Python        [██████████] ACTIVE  │
-│  AI / ML       [████████░░] LEARNING│
-│  RAG           [████████░░] BUILDING│
-│  Agents        [███████░░░] EXPLORING│
-│  System Design [██████░░░░] LEARNING│
-│                                     │
-│  STATUS: BUILDING                   │
-│                                     │
-└─────────────────────────────────────┘
+╔══════════════════════════════════════════╗
+║          DEVELOPER STATUS                ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  Python         ██████████  ACTIVE       ║
+║  Backend        ██████████  ACTIVE       ║
+║  Full Stack     █████████░  ACTIVE       ║
+║  AI / ML        ████████░░  LEARNING     ║
+║  RAG            ████████░░  BUILDING     ║
+║  AI Agents      ███████░░░  EXPLORING    ║
+║  System Design  ██████░░░░  LEARNING     ║
+║  Cloud          █████░░░░░  EXPLORING    ║
+║                                          ║
+║  STATUS → BUILDING                       ║
+║                                          ║
+╚══════════════════════════════════════════╝
 ```
 
-</td>
-</tr>
-</table>
+</p>
+
+---
+
+<h2 align="center">💻 DEVELOPMENT MINDSET</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=700&color=8B949E&center=true&vCenter=true&width=850&lines=Clean+code+over+clever+code.;Build+before+you+overthink.;Understand+the+system.;Solve+real+problems.;Learn+from+every+bug.;Keep+improving." />
+</p>
 
 ---
 
@@ -246,16 +272,16 @@ LEARN
 <h2 align="center">💭 BEYOND CODE</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=850&lines=Curiosity+drives+my+learning.;Technology+keeps+me+building.;Every+bug+is+a+lesson.;Every+project+is+an+experiment.;There+is+always+something+new+to+learn." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=700&color=8B949E&center=true&vCenter=true&width=850&lines=Curiosity+drives+my+learning.;Technology+keeps+me+building.;Every+bug+is+a+lesson.;Every+project+is+an+experiment.;There+is+always+something+new+to+learn." />
 </p>
 
 ---
 
-<h2 align="center">🔗 CONNECT WITH ME</h2>
+<h2 align="center">🔗 CONNECT</h2>
 
 <p align="center">
   <a href="https://github.com/AbhindevVijayan">
-    <img src="https://img.shields.io/badge/EXPLORE%20CODE-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+    <img src="https://img.shields.io/badge/EXPLORE_CODE-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
   </a>
   <a href="https://www.linkedin.com/in/abhindev-vijayan-516454245/">
     <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
@@ -263,12 +289,15 @@ LEARN
   <a href="https://abhindevvijayan-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
   </a>
+  <a href="mailto:abhindevvijayan18@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" />
+  </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=THANKS+FOR+VISITING!;KEEP+BUILDING.;KEEP+LEARNING.;KEEP+EXPERIMENTING.;SEE+YOU+IN+THE+NEXT+COMMIT+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=850&lines=THANKS+FOR+VISITING!;KEEP+BUILDING.;KEEP+LEARNING.;KEEP+EXPERIMENTING.;SEE+YOU+IN+THE+NEXT+COMMIT+%F0%9F%91%8B" />
 </p>
 
 <p align="center">
