@@ -73,12 +73,11 @@ Interests:
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,express,django,fastapi,flask,mysql,postgres,docker,git,github,vscode,postman,html,css,bootstrap&perline=7" />
 </p>
 
----
 
 ## 🌱 Currently Exploring
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=🤖+AI+Agents;📚+Retrieval-Augmented+Generation;🧠+Large+Language+Models;⚙️+System+Design;☁️+Cloud+Technologies;🔧+Scalable+Backend+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+Agents;Retrieval-Augmented+Generation+(RAG);Large+Language+Models+(LLMs);System+Design;Cloud+Technologies;Scalable+Backend+Architecture;Intelligent+Web+Applications" />
 </p>
 
 ---
@@ -86,12 +85,12 @@ Interests:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhindevVijayan&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhindevVijayan&layout=compact&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhindevVijayan&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhindevVijayan&layout=compact&hide_border=true&theme=github_dark&langs_count=8" width="42%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbhindevVijayan&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=AbhindevVijayan&theme=github-dark-blue&hide_border=true" width="70%" />
 </p>
 
 ---
@@ -99,10 +98,24 @@ Interests:
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhindevVijayan&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
+  <a href="https://github.com/AbhindevVijayan">
+    <img src="https://img.shields.io/github/followers/AbhindevVijayan?style=for-the-badge&logo=github&label=Followers" />
+  </a>
+  <a href="https://github.com/AbhindevVijayan?tab=repositories">
+    <img src="https://img.shields.io/github/stars/AbhindevVijayan?style=for-the-badge&logo=github&label=Repository%20Stars" />
+  </a>
+  <a href="https://github.com/AbhindevVijayan?tab=repositories">
+    <img src="https://img.shields.io/badge/Open%20Source-Contributor-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhindevVijayan&show=reviews,prs_merged,prs_merged_percentage&hide_title=true&hide_border=true&theme=github_dark" width="70%" />
+</p>
+
+
+
+
 
 ## 📈 Contribution Graph
 
