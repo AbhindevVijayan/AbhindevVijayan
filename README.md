@@ -102,7 +102,7 @@ Bachelor of Science
 <tr>
 
 <td align="center" width="25%">
-<br>
+<br> 
 <img src="https://img.icons8.com/fluency/64/source-code.png" />
 <br><br>
 <b>FULL STACK</b>
@@ -161,37 +161,65 @@ Scalability
 </p>
 
 ---
-
 <h2 align="center">🚀 BUILDING MINDSET</h2>
 
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+<br>
+<img src="https://img.icons8.com/fluency/64/idea.png" />
+<br><br>
+<b>THINK</b>
+<br>
+Understand the Problem<br>
+Explore Ideas<br>
+Design the Solution
+<br><br>
+</td>
+
+<td align="center" width="25%">
+<br>
+<img src="https://img.icons8.com/fluency/64/source-code.png" />
+<br><br>
+<b>BUILD</b>
+<br>
+Write Clean Code<br>
+Build the Core<br>
+Connect the Pieces
+<br><br>
+</td>
+
+<td align="center" width="25%">
+<br>
+<img src="https://img.icons8.com/fluency/64/maintenance.png" />
+<br><br>
+<b>REFINE</b>
+<br>
+Test & Debug<br>
+Optimize Performance<br>
+Improve Reliability
+<br><br>
+</td>
+
+<td align="center" width="25%">
+<br>
+<img src="https://img.icons8.com/fluency/64/rocket.png" />
+<br><br>
+<b>SHIP</b>
+<br>
+Deploy to Production<br>
+Monitor the System<br>
+Learn & Iterate
+<br><br>
+</td>
+
+</tr>
+</table>
+
 <p align="center">
-
-```text
-IDEA
- ↓
-ARCHITECT
- ↓
-BUILD
- ↓
-TEST
- ↓
-DEBUG
- ↓
-OPTIMIZE
- ↓
-DEPLOY
- ↓
-LEARN
- ↺
-```
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Think+deep.;Build+clean.;Test+everything.;Ship+with+confidence.;Learn+from+every+iteration." />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=800&lines=Clean+code.;Useful+software.;Reliable+systems.;Continuous+learning.;Real-world+problem+solving." />
-</p>
-
----
 
 <h2 align="center">🛰️ DEVELOPER STATUS</h2>
 
